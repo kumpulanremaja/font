@@ -119,3 +119,6 @@ For better text input experience, swipe left on the `VolUp+Q` key bar.
 Tango color scheme + agnoster oh-my-zsh theme + Ubuntu font:
 
 ![](./termux-ohmyzsh.png)
+
+
+supay anda lebih jelas bisa lihat di https://www.kumpulanremaja.com/2019/10/cara-merubah-tema-dan-font-termux.html
